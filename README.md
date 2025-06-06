@@ -16,6 +16,7 @@ A simple, extensible Java rate limiting library with support for fixed window ra
 ---
 
 ## Project Structure
+```bash
 org.example
 │
 ├── RateLimiter.java (Abstract base class)
@@ -23,7 +24,7 @@ org.example
 │ └── FixedWindowRateLimiter.java (Fixed window implementation)
 └── model
 └── RequestContext.java (Tracks request count and timestamps)
-
+```
 
 
 ---
