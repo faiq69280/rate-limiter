@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rate-limiter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rate_limiter_jar</output-path>
+    <root id="archive" name="rate-limiter.jar">
+      <element id="module-output" name="rate-limiter" />
+    </root>
+  </artifact>
+</component>
