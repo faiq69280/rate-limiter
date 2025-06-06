@@ -21,9 +21,9 @@ org.example
 │
 ├── RateLimiter.java (Abstract base class)
 ├── concrete
-│ └── FixedWindowRateLimiter.java (Fixed window implementation)
+│     └── FixedWindowRateLimiter.java (Fixed window implementation)
 └── model
-└── RequestContext.java (Tracks request count and timestamps)
+      └── RequestContext.java (Tracks request count and timestamps)
 ```
 
 
